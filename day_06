@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Blog Page</title>
+</head>
+<body>
+<header>
+    <h1>My Simple Blog</h1>
+    <p>By Hema | March 2026</p>
+</header>
+
+<nav>
+    <a href="#">Home</a> |
+    <a href="#">Blog</a> |
+    <a href="#">About</a> |
+    <a href="#">Contact</a>
+</nav>
+<section>
+
+<article>
+<h2>Learning Web Development</h2>
+<p><strong>Author:</strong> Hema</p>
+<p><strong>Date:</strong> 12 March 2026</p>
+
+<p>
+Web development is an interesting field where we learn how to build websites 
+using technologies like HTML, CSS, and JavaScript. HTML helps in creating 
+the structure of the webpage.
+</p>
+
+<p>
+Practicing daily helps improve coding skills and understanding of web technologies.
+</p>
+</article>
+
+</section>
+
+<aside>
+<h3>Recent Posts</h3>
+<ul>
+<li>Introduction to HTML</li>
+<li>Understanding Web Development</li>
+<li>Learning Programming Basics</li>
+</ul>
+</aside>
+
+</body>
+</html>
